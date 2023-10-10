@@ -16,3 +16,4 @@ s/^max-connections *=.*/max-connections = $max_connections/" $HOME/.celestia-app
 $Cherike
 Tara
 @Misouki
+!Schindler
