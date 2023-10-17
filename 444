@@ -6,7 +6,6 @@ git checkout v0.6.0
 make install
 Hul
 Lysagna DelRay
-@tiki01
 #Taka
 Garshasb
 sed -i -e "s/^use-legacy *=.*/use-legacy = false/;\
